@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Pinoy Testers Community
+title: About The Pinoy Testers
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>We the Pinoy Tester Community.</p>
+<p>We are a community of Pinoy Testers worldwide.</p>
 
 <p>Our vision is to be the largest software testing community in the Philippines.</p>
 <p>Our mission is to empower pinoy software testers.</p>  
