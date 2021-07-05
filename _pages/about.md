@@ -13,10 +13,10 @@ comments: true
 <p>Our vision is to be the largest software testing community in the Philippines.</p>
 <p>Our mission is to empower pinoy software testers.</p>  
 <p>Our values are
-  <ul><li>**B**eing the Best.
+  <ul><li><strong>B</strong>eing the Best.
   </li> 
-    <li>**U**sefulness.</li> 
-    <li>**G**iving Back.</li>
+    <li><strong>U</strong>sefulness.</li> 
+    <li><strong>G</strong>iving Back.</li>
   </ul>
   </p>
   
