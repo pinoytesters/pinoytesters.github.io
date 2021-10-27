@@ -29,7 +29,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Join Us</h5>
 
-<p>Thank you for your support! <i class="fab fa-man"></i>.</p>
+<p>Thank you for your support!</p>
 
 </div>
 </div>
