@@ -9,7 +9,5 @@ description: "Random thoughts about all the things I'm doing"
 canon: https://www.coachrye.com
 ---
 
-<!---
 Testing This
---->
 
