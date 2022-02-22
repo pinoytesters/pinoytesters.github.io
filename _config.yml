@@ -4,7 +4,7 @@ title: "PinoyTesters"
 description: "The global community of Pinoy Testers"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/'
+baseurl: 'https://pinoytesters.github.io'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
