@@ -6,6 +6,7 @@ categories: [ Random Thoughts ]
 tags: [ Software Testing, Coaching]
 image: assets/images/phtechweek2021.png 
 description: "Random thoughts about all the things I'm doing"
+canon: https://www.coachrye.com
 ---
 
 <!---
