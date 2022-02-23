@@ -4,7 +4,7 @@ title:  "Inspired by PHTechWeek2021"
 author: rye
 categories: [ PinoyTechCommunity ]
 tags: [PHTechWeek2021]
-image: assets/images/phtechweek2021.png
+image: assets/images/post-phtechweek2021.png
 description: "My first post on this site, inspired by the recently concluded #PHTechWeek2021."
 featured: true
 ---
