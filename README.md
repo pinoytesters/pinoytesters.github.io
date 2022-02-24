@@ -1,6 +1,14 @@
 # Pinoy Testers Github Blog
 
+## Topics
 
+- [ ] The Agile MBA
+- [ ] Toughest time since 1998
+    - Always looking... now desperately (?) looking
+- [ ] My stories
+    - This can be a series
+    - Talk about STAR a bit
+- [ ] Gratitude post to friends and former bosses
 
 ### Copyright
 
