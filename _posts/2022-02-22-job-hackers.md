@@ -6,7 +6,7 @@ categories: [ Random Thoughts ]
 tags: [ Software Testing, Coaching]
 image: assets/images/post-thejobhackers.png 
 description: "The Agile MBA Experience with The Job Hackers"
-published: false
+published: true
 canonical_url: https://www.coachrye.com/2022/agile-mba-with-the-job-hackers
 ---
     
