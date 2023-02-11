@@ -21,6 +21,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: UA-113961478-1
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 
 # Authors
 authors:
